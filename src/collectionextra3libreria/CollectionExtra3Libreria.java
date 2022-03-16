@@ -24,6 +24,7 @@ public class CollectionExtra3Libreria {
        ls.prestarLibro();
        ls.mostrarLibro();
        ls.devolverLibro();
+       ls.mostrarLibro();
     }
 
 }
